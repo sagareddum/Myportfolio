@@ -33,7 +33,7 @@ with open('D1/default_img_proj.jpg','rb') as dpi:
     project_img_default=dpi.read()
     
 # file.close()
-with open('D1/profileprofile_img.jpg','rb') as profile:
+with open('D1/IMG-20240819-WA0000.jpg','rb') as profile:
     image=profile.read()
 profile.close()
 
